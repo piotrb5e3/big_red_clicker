@@ -1,2 +1,3 @@
 # big_red_clicker
-Big Red Clicker flutter app
+
+A simple clicker-counter app

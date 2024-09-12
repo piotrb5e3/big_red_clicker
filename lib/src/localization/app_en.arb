@@ -1,0 +1,6 @@
+{
+  "appTitle": "big_red_clicker",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
